@@ -2,8 +2,8 @@
 ----
 
 <div align="center">
-  <img src="https://github.com/AkinYoungSoftware/TgEglenceBot/raw/master/logo.png" width="300" height="300">
-  <h1>Telegram Doğruluk mu? Cesaret mi? Oyun Botu</h1>
+  <img src="https://github.com/XTQ067/TgEglenceBot/raw/master/logo.png" width="300" height="300">
+  <h1>Telegram Doğruluq mu? Cəsaret mi? Oyun Botu</h1>
 </div>
 <p align="center">
         <a href="https://telegram.dog/TgEglence_Bot">~Bot~</a>
@@ -12,11 +12,11 @@
 ----
 
 # Bot Hakkında
-**Pyrogram Bot Api Kullanılarak yazılmış basit telegram doğruluk mu? cesaret mi? oyun botu!**
+**Pyrogram Bot Api İstifadə olunaraq yazılmış adi telegram doğruluq mu? cəsaret mi? oyun botu!**
 
 # Heroku'da Clonlamak
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AkinYoungSoftware/TgEglenceBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XTQ067/TgEglenceBot)
 
 ## Alanları Doldurma
 * ``BOT_TOKEN``: Botunuzun tokeni t.me/botfather alınız!
@@ -37,16 +37,16 @@ K_G = Client(
 
 @K_G.on_message(filters.command("start"))
 async def _(client, message):
-    await message.reply_text(text="Merhaba")
+    await message.reply_text(text="Salam")
 ```
 
 # İletişim
-Şikayet, bağış v.b. için benim ile telegram'dan iletişime geç [@YoungSoftware](https://t.me/YoungSoftware)
+Şikayət, kömək , təklif üçün mənim ilə telegram'dan əlaqə qur [@XTQ_BAKAVOY](https://t.me/BotssSupport)
 
 
 # Credit
 Thanks for;
 
-[Akın](https://github.com/AkinYoungSoftware)
+[SAHİBİM](https://github.com/XTQ067)
 
 [Dan](https://telegram.dog/haskell) [Pyrogram Library](https://github.com/pyrogram/pyrogram) Kütüphanesi için
