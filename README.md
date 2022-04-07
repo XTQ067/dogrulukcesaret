@@ -2,7 +2,7 @@
 ----
 
 <div align="center">
-  <img src="https://github.com/gitaristbey/TgEglenceBot/raw/master/logo.png" width="300" height="300">
+  <img src="https://github.com/XTQ067/TgEglenceBot/raw/master/logo.png" width="300" height="300">
   <h1>Telegram Doğruluq mu? Cəsaret mi? Oyun Botu</h1>
 </div>
 <p align="center">
@@ -16,7 +16,7 @@
 
 # Heroku'da Clonlamak
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gitaristbey/TgEglenceBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XTQ067/TgEglenceBot)
 
 ## Alanları Doldurma
 * ``BOT_TOKEN``: Botunuzun tokeni t.me/botfather alınız!
