@@ -1,8 +1,8 @@
 {
-  "name": "Xaos Əyləncə botu",
+  "name": "Yarasa Əyləncə botu",
   "description": "Pyrogram İlə Yazılmış Bir Əyləncə botu",
-  "repository": "https://github.com/gitaristbey/TgEglenceBot.git",
-  "logo": "https://telegramchannels.me/storage/media-logo/2001/dcgamebot.jpg",
+  "repository": "https://github.com/XTQ067/TgEglenceBot.git",
+  "logo": "https://te.legra.ph/file/6aff02bfb041e10af0e7e.jpg",
   "keywords": ["telegram", "game", "pyrogram","telegram bot"],
   "env": {
      "BOT_TOKEN": {
